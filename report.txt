@@ -1,0 +1,8 @@
+Prompt:  How are you doing?
+User: None
+Prompt:  Hello Jarvis, Hello
+User: Hello
+Prompt:  Jarvis how are you?
+User: how are you?
+AI: Hello Azain! I'm doing well, thank you for asking. I'm ready to assist you with any questions or topics you'd like to discuss. I don't have feelings like humans do, but I'm functioning properly and prepared to provide helpful responses. What's on your mind today?
+----------------------------------------

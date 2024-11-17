@@ -1,0 +1,9 @@
+SpeechRecognition
+groq
+pillow
+python-dotenv
+google-generativeai
+edge-tts
+faster-whisper
+opencv-python
+streamlit
